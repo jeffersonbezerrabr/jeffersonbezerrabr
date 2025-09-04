@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Jefferson Bezerra
 
-#### Desenvolvedor Back-End (Em construção...) | Python | Django  
+#### Desenvolvedor Back-End | Python | Django  
 <i>(Natal - RN)</i>
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/jeffersonbezerra88)
