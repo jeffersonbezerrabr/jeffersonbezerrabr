@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 > I'm an IT professional passionate about technology, with experience in technical support, computer maintenance, software, and networks. I've always focused on helping people, seeking efficient solutions through troubleshooting and continuous system improvement.
 
->Recently, I've found myself in programming, focusing on Python and the Django framework—technologies that allow me to combine my passion for problem-solving with the development of practical, scalable web solutions. I study daily, always seeking knowledge, new tools, and ways to improve my technical skills. My goal is to develop systems that contribute to business productivity while simultaneously advancing professionally. 
+>Recently, I've found myself in programming, focusing on Python and the Django framework technologies that allow me to combine my passion for problem-solving with the development of practical, scalable web solutions. I study daily, always seeking knowledge, new tools, and ways to improve my technical skills. My goal is to develop systems that contribute to business productivity while simultaneously advancing professionally. 
 </i>
 
 ---
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 > Sou um profissional de TI apaixonado por tecnologia, com experiência em suporte técnico, manutenção de computadores, softwares e redes. Sempre atuei com foco em ajudar pessoas, buscando soluções eficientes por meio do troubleshooting e da melhoria contínua de sistemas.
 
-> Recentemente, me encontrei na programação, com foco em Python e no framework Django — tecnologias que me permitem unir minha paixão por resolver problemas com o desenvolvimento de soluções web práticas e escaláveis. Estudo diariamente, sempre em busca de conhecimento, novas ferramentas e formas de aprimorar minhas habilidades técnicas. Meu objetivo é atuar no desenvolvimento de sistemas que contribuam para a produtividade dos negócios, ao mesmo tempo em que evoluo profissionalmente.
+> Recentemente, me encontrei na programação, com foco em Python e no framework Django, tecnologias que me permitem unir minha paixão por resolver problemas com o desenvolvimento de soluções web práticas e escaláveis. Estudo diariamente, sempre em busca de conhecimento, novas ferramentas e formas de aprimorar minhas habilidades técnicas. Meu objetivo é atuar no desenvolvimento de sistemas que contribuam para a produtividade dos negócios, ao mesmo tempo em que evoluo profissionalmente.
 > 
 </i>
 
