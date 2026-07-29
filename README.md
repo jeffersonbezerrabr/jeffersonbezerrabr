@@ -16,8 +16,42 @@ Here are some ideas to get you started:
 -->
 # Jefferson Bezerra
 
-#### Desenvolvedor Back-End | Python | Django  
-<i>(Natal - RN)</i>
+💻 Desenvolvedor Back-End em formação
+
+🎓 ADS - Gran Faculdade
+
+🎓 Técnico em TI - IMD/UFRN
+
+📍 Natal - RN
+
+---
+
+## Tecnologias
+
+- Python
+- Django
+- Git e GitHub
+- HTML
+- CSS
+- SQL
+
+---
+
+## Atualmente estudando
+
+- Desenvolvimento Web com Django
+- Banco de Dados
+- Front-End (HTML, CSS e JavaScript)
+- Estruturas de Dados e Algoritmos
+
+---
+
+## Projetos
+
+- Sistema ERP em Django
+- Exercícios Python
+- Desafios DIO
+- Estudos de SQL
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-bezerrabr)
 [![E-mail](https://img.shields.io/badge/-Email-0077B5?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jeffersonbezerra88@hotmail.com)
