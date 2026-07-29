@@ -62,9 +62,11 @@ Here are some ideas to get you started:
 
 <i>
 
-> I'm an IT professional passionate about technology, with experience in technical support, computer maintenance, software, and networks. I've always focused on helping people, seeking efficient solutions through troubleshooting and continuous system improvement.
+> I am an IT professional with experience in technical support, computer maintenance, software, and networks. Throughout my career, I have always focused on problem-solving, user support, and continuous improvement of systems and processes.
 
->Recently, I've found myself in programming, focusing on Python and the Django framework technologies that allow me to combine my passion for problem-solving with the development of practical, scalable web solutions. I study daily, always seeking knowledge, new tools, and ways to improve my technical skills. My goal is to develop systems that contribute to business productivity while simultaneously advancing professionally. 
+>Currently, I am studying Systems Analysis and Development (ADS) and Information Technology Technology, directing my career towards software development. I focus on Back-End development using Python and Django, and I am also studying databases, version control with Git, and web development.
+
+> I constantly seek to improve my knowledge through courses, practical projects, and daily study. My goal is to develop solutions that generate value for companies and users, combining my support experience with the creation of efficient, scalable, and easily maintainable systems.
 </i>
 
 ---
@@ -73,9 +75,11 @@ Here are some ideas to get you started:
 
 <i>
 
-> Sou um profissional de TI apaixonado por tecnologia, com experiência em suporte técnico, manutenção de computadores, softwares e redes. Sempre atuei com foco em ajudar pessoas, buscando soluções eficientes por meio do troubleshooting e da melhoria contínua de sistemas.
+>Sou um profissional de TI com experiência em suporte técnico, manutenção de computadores, softwares e redes. Ao longo da minha trajetória, sempre atuei na resolução de problemas, no atendimento a usuários e na melhoria contínua de sistemas e processos.
 
-> Recentemente, me encontrei na programação, com foco em Python e no framework Django, tecnologias que me permitem unir minha paixão por resolver problemas com o desenvolvimento de soluções web práticas e escaláveis. Estudo diariamente, sempre em busca de conhecimento, novas ferramentas e formas de aprimorar minhas habilidades técnicas. Meu objetivo é atuar no desenvolvimento de sistemas que contribuam para a produtividade dos negócios, ao mesmo tempo em que evoluo profissionalmente.
+>Atualmente estou cursando Análise e Desenvolvimento de Sistemas (ADS) e Técnico em Tecnologia da Informação, direcionando minha carreira para o desenvolvimento de software. Tenho foco em desenvolvimento Back-End utilizando Python e Django, além de estudar banco de dados, versionamento com Git e desenvolvimento web.
+
+>Busco constantemente aprimorar meus conhecimentos por meio de cursos, projetos práticos e estudos diários. Meu objetivo é atuar no desenvolvimento de soluções que gerem valor para empresas e usuários, unindo minha experiência em suporte com a criação de sistemas eficientes, escaláveis e de fácil manutenção.
 > 
 </i>
 
